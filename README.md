@@ -1,2 +1,3 @@
 # LinQedIn
-LinkedIn in C++ and Qt
+LinkedIn in C++ and Qt.
+University Object Programming project.
